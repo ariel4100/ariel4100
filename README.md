@@ -13,11 +13,10 @@ con excelentes habilidades para resolver problemas y la capacidad de trabajar de
 
 _Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir aprendiendo sobre nuevas tecnologías. Estos son algunos de mis mejores proyectos._
 
-- [Ghibli Tracker: Rate and discover your favorites Ghibli's movies](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker)
-- [Ghibli Backoffice: Manage and make CRUD for all content from Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Backoffice)
-- [Creation of an API/DATABASE deployed on heroku using Express JS and PostgreSQL](https://github.com/AreYouIvan/expressJS)
-- [E-commerce platform building in Next.js](https://github.com/AreYouIvan/react-store)
-- [Todo-list an application to increase your productivity building in React](https://github.com/AreYouIvan/react-introduction)
+- [Abac: Aplicación web multi-idioma con acceso clientes y localizador de producto y calculo de CV](https://github.com/ariel4100/abac)
+- [Bairespack: Aplicación web multi-idioma con catalogo de productos y categorias.](https://github.com/ariel4100/bairespack)
+- [E-commerce con vuejs en el front y laravel en el back con bases de datos mysql.](https://www.fornis.com.ar)
+ 
 
 ## ⚙ My stack technologies
 
